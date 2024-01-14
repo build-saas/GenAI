@@ -2,6 +2,7 @@
 
 import * as z from "zod";
 import axios from "axios";
+import Loader from "@/components/loader";
 import { MessageSquare } from "lucide-react";
 import { useForm } from "react-hook-form";
 import { useState } from "react";
@@ -15,10 +16,8 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { Form, FormControl, FormField, FormItem } from "@/components/ui/form";
 import { cn } from "@/lib/utils";
 import { UserAvatar } from "@/components/user-avatar";
-
 import { formSchema } from "./constants";
 import { CreateChatCompletionRequestMessage } from "openai/resources/index.mjs";
-import Loader from "@/components/loader";
 import { Empty } from "@/components/empty";
 import { useProModel } from "@/hooks/use-pro-model";
 import { toast } from "react-hot-toast";
