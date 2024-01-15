@@ -2,7 +2,7 @@
 
 GenAI is a versatile AI services app that provides answers to your questions, generates high-quality images and videos, composes music, and generates code snippets. This project leverages cutting-edge AI technologies, including OpenAI and Replicate AI, to deliver powerful and creative AI-driven experiences.
 
-  <img src="https://github.com/harshsahu12/GenAI/assets/129574323/0743fb11-00b6-4d28-b47b-2e798adb39bb" width=800 />
+  <img src="https://github.com/harshsahu12/GenAI/assets/129574323/b4128f9e-f449-4da5-9951-4c97ccb47649" width=800 />
 
 ## Features
 
