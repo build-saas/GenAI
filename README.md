@@ -2,6 +2,8 @@
 
 GenAI is a versatile AI services app that provides answers to your questions, generates high-quality images and videos, composes music, and generates code snippets. This project leverages cutting-edge AI technologies, including OpenAI and Replicate AI, to deliver powerful and creative AI-driven experiences.
 
+  <img src="https://github.com/harshsahu12/GenAI/assets/129574323/0743fb11-00b6-4d28-b47b-2e798adb39bb" width=800 />
+
 ## Features
 
 - **Q&A Service:** Get accurate and relevant answers to your questions using advanced natural language processing.
@@ -30,24 +32,33 @@ GenAI is a versatile AI services app that provides answers to your questions, ge
 
 ## Getting Started
 
-[Provide instructions on how to set up and run the project locally. Include any necessary dependencies, configuration steps, and environment variables.]
+ - Clone the Repository:
+   
+       git clone https://github.com/harshsahu12/GenAI.git
+    
+ - Install Dependencies:
+
+       cd GenAI
+       npm install
+    
+ - Configure Environment Variables:
+
+     Create a .env file and add necessary configurations for MongoDB, Stripe, and other environment-specific variables.
+   
+ -  Run the Application:
+
+        npm run dev
+    
+ - Open your browser and navigate to http://localhost:3000 to explore HippoAssets locally.
 
 ## Usage
 
-[Provide examples or code snippets demonstrating how to use the various features of GenAI. Include any API endpoints, configurations, or usage guidelines.]
+  <img src="https://github.com/harshsahu12/GenAI/assets/129574323/180ff064-d834-4883-9e49-3eb3e5ae4c3d" width=600 />
 
 ## Contributing
 
-[Explain how others can contribute to your project. Include guidelines for submitting issues, feature requests, or pull requests.]
+ - We welcome contributions from the community! If you'd like to enhance features, fix bugs, or propose new ideas, feel free to submit a pull request.
 
-## License
+### License
 
-[Specify the license under which your project is distributed. For example, MIT License.]
-
-## Acknowledgements
-
-[Give credit to the technologies, libraries, or individuals who contributed to your project.]
-
----
-
-**Note:** [Include any additional information, disclaimers, or project-specific notes here.]
+- GenAI is licensed under the MIT License, ensuring an open and collaborative development environment.
